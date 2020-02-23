@@ -54,11 +54,13 @@ IMPORTANT: Please note that download with your own account you must be invited a
 
 #### Access your local copy
 - **Website:** [http://localhost:8000](http://localhost:8000)
-- ![website.png](docs/images/website.png)
+	- Website: 
+![website.png](docs/images/website.png)
 - **Admin:** [http://localhost:8000/admin](http://localhost:8000/admin)
-- ![admin-login.png](docs/images/website-login.png)
-- ![admin-panel.png](docs/images/website.png) 
+	- Admin sign in:
+![admin-login.png](docs/images/admin-login.png)
+	- Admin panel
+![admin-panel.png](docs/images/admin-panel.png) 
 
 #### Shutdown local running website
 - Press `control` + `c` key to shutdown local server
-- ![]()
