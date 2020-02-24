@@ -21,7 +21,7 @@
 
 #### Create a Python3 Virtual Environment inside church-website repo
 
-- change dircetory to the church-website repo
+- change directory to the church-website repo
 
 		$ cd church-website
 
