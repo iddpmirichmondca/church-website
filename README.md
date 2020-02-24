@@ -17,21 +17,18 @@
 
 #### Dowload the church-website repo 
 
-IMPORTANT: Please note that download with your own account you must be invited as a contributor because, the repo is private.
-
-
 	$ git clone git@github.com:iddpmirichmond/church-website.git
 
 #### Create a Python3 Virtual Environment inside church-website repo
 
 - change dircetory to the church-website repo
 
-		$ cd church-website # change directory to the church-website repo
+		$ cd church-website
 
 - Create python virtual environment for the project
 
 
-		$ python3 -m venv .venv # create a .venv folder 
+		$ python3 -m venv .venv
 
 
 	This will create the .venv directory if it doesn’t exist, and also create directories inside it containing a copy of the Python interpreter, the standard library, and various supporting files.
